@@ -11,6 +11,7 @@
     "git": "git add . && git commit && git push"
   },
   "dependencies": {
+    "htmlparser2": "^10.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
