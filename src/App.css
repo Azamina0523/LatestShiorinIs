@@ -96,11 +96,3 @@ body {
 .white-link:hover {
     text-decoration: underline;
 }
-
-/* レスポンシブ対応 */
-@media (max-width: 768px) {
-    .video-player iframe {
-        width: 100%;
-        height: 400px;
-    }
-}
